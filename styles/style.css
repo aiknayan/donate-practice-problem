@@ -253,19 +253,34 @@ img {
 .area {
     display: flex;
     background-color: rgb(255, 244, 214);
-    padding: 90px 215px;
+    padding: 90px 317px;
     margin: 0px 400px;
     margin-bottom: 150px;
+
 }
 
 .email {
     font-size: 25px;
     font-weight: 400;
     padding: 15px 250px 15px 15px;
-    border-radius: 5px;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+    /* border-radius: 5px; */
     border: none;
     background-color: rgb(217, 217, 217);
     color: rgb(170, 159, 159);
+
+}
+
+.main-button2 {
+    font-size: 25px;
+    font-weight: 400;
+    padding: 15px;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+    border: none;
+    background-color: rgb(255, 89, 89);
+    color: white;
 
 }
 
