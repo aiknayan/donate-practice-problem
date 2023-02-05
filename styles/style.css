@@ -1,0 +1,295 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.banner {
+    padding: 250px;
+    color: white;
+    background-image: url(../images/donation5.jpg), linear-gradient(360deg, #121212 0%, rgba(18, 18, 18, 0) 100%);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-blend-mode: overlay;
+    background-blend-mode: overlay;
+    /* height: 100vh; */
+
+    /* display: flex; */
+    text-align: center;
+
+
+}
+
+
+.banner-header {
+    /* padding-top: 250px; */
+    font-weight: 700;
+    font-size: 70px;
+
+}
+
+
+
+.BANNER-DESCRIPTION {
+    padding-bottom: 45px;
+    padding-top: 45px;
+    font-size: 20px;
+}
+
+.main-button {
+    /* padding-top: 45px; */
+    font-size: 25px;
+    font-weight: 400;
+    padding: 15px;
+    border-radius: 5px;
+    border: none;
+    background-color: rgb(255, 89, 89);
+    color: white;
+}
+
+
+.donate-amount {
+    /* max-width: 1020px; */
+    margin-top: 150px;
+    text-align: center;
+}
+
+.donate-amount>h1 {
+    margin-bottom: 30px;
+    font-weight: 700;
+    font-size: 51px;
+}
+
+.donate-des {
+    margin-bottom: 40px;
+    color: rgb(112, 112, 112);
+    font-size: 20px;
+}
+
+hr {
+    color: rgb(112, 112, 112);
+    width: auto;
+
+}
+
+.other-amount {
+    margin-top: 40px;
+    margin-bottom: 15px;
+    font-size: 20px;
+
+}
+
+.button-container {
+    text-align: center;
+    display: flex;
+    padding: 0 400px;
+    gap: 25px;
+    align-items: center;
+
+}
+
+.donate-money {
+    font-size: 40px;
+    font-weight: 600;
+    width: 180px;
+    height: 160px;
+    border: none;
+    border-radius: 8PX;
+    background-color: rgb(255, 238, 238);
+    color: rgb(112, 112, 112);
+    background-color: rgb(250, 250, 250);
+
+
+}
+
+.special-border {
+    border-color: rgb(98, 0, 255);
+    border: 3px solid rgb(255, 89, 89);
+    color: rgb(255, 89, 89);
+    background-color: rgb(255, 238, 238);
+}
+
+.other-amount {
+    color: rgb(180, 180, 180);
+}
+
+.donate-amount .main-button {
+    margin-top: 30px;
+}
+
+
+
+hr {
+    border: 1px solid #DADADA;
+    margin-left: auto;
+    margin-right: auto;
+    width: 900px;
+}
+
+.donate-plan {
+    padding-top: 170px;
+}
+
+.donate-plan>h1 {
+    margin-bottom: 30px;
+    font-weight: 700;
+    font-size: 51px;
+    text-align: center;
+}
+
+.donate-plan>P {
+    margin-bottom: 40px;
+    color: rgb(112, 112, 112);
+    font-size: 20px;
+    text-align: center;
+}
+
+.card-container {
+    display: flex;
+    justify-content: space-evenly;
+    margin: 0px 72px;
+    /* margin-top: 40px;
+    margin-bottom: 40px; */
+    gap: 30px;
+}
+
+.deafult-cart {
+    padding: 70px 30px;
+    border-radius: 7px;
+    font-size: 40px;
+
+}
+
+.deafult-cart>h3 {
+    padding-bottom: 30px;
+    font-weight: 700;
+    font-size: 30px;
+}
+
+.deafult-cart>IMG {
+    padding-bottom: 30Px;
+}
+
+.deafult-cart>p {
+    color: rgb(112, 112, 112);
+    font-size: 20px;
+}
+
+.card1 {
+    background-color: rgb(237, 245, 246);
+}
+
+.card2 {
+    background-color: rgb(255, 238, 238);
+}
+
+.card3 {
+    background-color: rgb(255, 244, 214);
+}
+
+
+.card-container {
+    padding: 75PX 185PX;
+}
+
+
+
+
+.text-section>h1 {
+    margin-bottom: 30px;
+    font-weight: 700;
+    font-size: 51px;
+}
+
+.text-section>p {
+    margin-bottom: 40px;
+    color: rgb(112, 112, 112);
+    font-size: 20px;
+}
+
+
+.donate-lives {
+    display: flex;
+    align-items: center;
+    padding: 75PX 185PX;
+    margin: 0px 150px 0px 72px;
+}
+
+
+.text-section {
+    padding-right: 135px;
+}
+
+.frame {
+    border-right: 60px;
+    border-radius: 50px;
+}
+
+
+.text-section2>h1 {
+    margin-bottom: 30px;
+    font-weight: 700;
+    font-size: 51px;
+}
+
+.text-section2>p {
+    margin-bottom: 40px;
+    color: rgb(112, 112, 112);
+    font-size: 20px;
+}
+
+
+.text-section2 {
+    /* padding-left: 60px; */
+}
+
+.frame2 {
+    padding-right: 135px;
+
+}
+
+
+img {
+    border-radius: 5px;
+}
+
+.mail-update {}
+
+.area {
+    display: flex;
+    background-color: rgb(255, 244, 214);
+    padding: 90px 215px;
+    margin: 0px 400px;
+    margin-bottom: 150px;
+}
+
+.email {
+    font-size: 25px;
+    font-weight: 400;
+    padding: 15px 250px 15px 15px;
+    border-radius: 5px;
+    border: none;
+    background-color: rgb(217, 217, 217);
+    color: rgb(170, 159, 159);
+
+}
+
+footer {
+    background-color: rgb(11, 13, 23);
+    text-align: center;
+    padding-top: 80px;
+    padding-bottom: 80px;
+}
+
+footer>h3 {
+    color: rgb(255, 89, 89);
+    padding-bottom: 25px;
+    font-weight: 700;
+    font-size: 40px;
+}
+
+footer>p {
+    color: rgb(153, 155, 163);
+
+}
