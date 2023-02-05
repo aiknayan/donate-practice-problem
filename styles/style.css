@@ -240,21 +240,15 @@ hr {
 }
 
 
-.text-section2 {
-    /* padding-left: 60px; */
-}
-
 .frame2 {
     padding-right: 135px;
 
 }
 
-
 img {
     border-radius: 5px;
 }
 
-.mail-update {}
 
 .area {
     display: flex;
